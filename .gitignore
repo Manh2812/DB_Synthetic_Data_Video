@@ -1,5 +1,8 @@
+/venv
 /scenes/__pycache__
 /*.pyc
 /output/images/*
+/output/audio/*
 /output/texts/*
 /output/videos/*
+*.txt

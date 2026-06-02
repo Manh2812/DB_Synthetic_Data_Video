@@ -1,10 +1,19 @@
 # Project
 
+## Cài môi trường ảo
+
+```bash
+py -3.11 -m venv venv
+.\venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+```
+
 ## Cài thư viện
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Chạy chương trình
 
