@@ -40,7 +40,7 @@ Mỗi thành viên phụ trách nghiên cứu lý thuyết, thiết kế animati
 
 # Đồng bộ
 
-## Link: https://slideslive.com/icml-2025/dpfy-your-data-how-to-and-why-synthesize-differentially-private-synthetic-data?utm_source=chatgpt.com
+## Link: https://slideslive.com/icml-2025/dpfy-your-data-how-to-and-why-synthesize-differentially-private-synthetic-data?utm_source=chatgpt.com (Link cũ bị lỗi).
 
 ## Link giọng AI: https://www.everai.vn/text-to-speech (chọn giọng Minh Quân)
 
