@@ -4,12 +4,13 @@ import sys
 
 
 SCENES = [
-    {"name": "Scene1Intro", "file": "scenes/scene1_intro.py"},
-    {"name": "Scene2DP", "file": "scenes/scene2_dp.py"},
-    {"name": "Scene3Text", "file": "scenes/scene3_text.py"},
-    {"name": "Scene4Image", "file": "scenes/scene4_image.py"},
-    {"name": "Scene5Tabular", "file": "scenes/scene5_tabular.py"},
-    {"name": "Scene6System", "file": "scenes/scene6_system.py"},
+    {"name": "Scene1Intro", "file": "scenes/scene1_data_ml.py"},
+    {"name": "Scene2DP", "file": "scenes/scene2_differential_privacy.py"},
+    {"name": "Scene3Text", "file": "scenes/scene3_dp_text.py"},
+    {"name": "Scene4Image", "file": "scenes/scene4_dp_images.py"},
+    {"name": "Scene5Tabular", "file": "scenes/scene5_dp_tabular.py"},
+    {"name": "Scene6System", "file": "scenes/scene6_privacy_considerations.py"},
+    {"name": "Scene7Conclusion", "file": "scenes/scene7_conclusion.py"},
 ]
 
 QUALITY_FLAGS = {
