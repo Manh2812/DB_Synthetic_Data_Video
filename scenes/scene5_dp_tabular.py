@@ -2,7 +2,6 @@ from manim import *
 import numpy as np
 import random
 
-
 class Scene5Tabular(Scene):
     def construct(self):
         font_main = "Arial"
@@ -41,7 +40,7 @@ class Scene5Tabular(Scene):
 
         self.play(Create(highlight_rect), run_time=1.5)
         self.play(Write(warning_text), run_time=2)
-        self.wait(4)
+        self.wait(5)
 
         self.play(FadeOut(warning_text), FadeOut(highlight_rect), FadeOut(subtitle1))
         self.play(table_real.get_rows()[1:].animate.set_opacity(0.1), run_time=2)
@@ -159,4 +158,4 @@ class Scene5Tabular(Scene):
         final_msg = Text("Protect Privacy, Unlock Data", font=font_main, font_size=32).to_edge(DOWN)
         self.play(Write(final_msg), run_time=3)
 
-        self.wait(5)  # Đoạn kết video
+        self.wait(6)
