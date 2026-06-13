@@ -37,3 +37,10 @@ Chỉ chạy một vài scene:
 ```bash
 python main.py Scene1Intro Scene3Text
 ```
+
+chạy scene1_intro.py
+python main.py -q l Scene1Intro
+python main.py -q h Scene1Intro
+
+ghép video với audio của scene1
+python combine_audio_scene1.py

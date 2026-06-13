@@ -9,7 +9,7 @@ SCENES = [
     {"name": "Scene3Text", "file": "scenes/scene3_text.py"},
     {"name": "Scene4Image", "file": "scenes/scene4_image.py"},
     {"name": "Scene5Tabular", "file": "scenes/scene5_tabular.py"},
-    {"name": "Scene6System", "file": "scenes/scene6_system.py"},
+    {"name": "Scene6Considerations", "file": "scenes/scene6_considerations.py"},
 ]
 
 QUALITY_FLAGS = {
